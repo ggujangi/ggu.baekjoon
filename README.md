@@ -13,3 +13,6 @@
 #### [while문](https://www.acmicpc.net/step/2) 단계 완료
 
 
+## 2주차 목표 ~ 2021.04.04
+#### [1차원 배열](https://www.acmicpc.net/step/6) 단계 완료
+#### [함수](https://www.acmicpc.net/step/5) 단계 완료
